@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ColorConverter</string>
+
+    <string name="indications">Introduce el valor RGB a convertir en hexadecimal</string>
+    <string name="green_hint">Verde</string>
+    <string name="red_hint">Rojo</string>
+    <string name="blue_hint">Azul</string>
+
+    <string name="convert_action">Convertir</string>
+    <string name="input_error">Campo incorrecto</string>
+
+</resources>
